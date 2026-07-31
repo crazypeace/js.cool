@@ -1,0 +1,11 @@
+{
+  "description": "Shihwa Learning Center Web Application",
+  "repo": "https://github.com/YudhiShihwa/shihwacenter",
+  "owner": {
+    "username": "YudhiShihwa",
+    "email": ""
+  },
+  "record": {
+    "CNAME": "yudhishihwa.github.io"
+  }
+}
